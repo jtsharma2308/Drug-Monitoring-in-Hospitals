@@ -1,5 +1,5 @@
 # Drug-Monitoring-in-Hospitals
-### About the App
+#### About the App
 
 
 
@@ -8,9 +8,9 @@
 ### Brief Description:
 This project is basically to monitor the flow of drug within the hospital and the doctor’s, pharmacist’s activities to protect the hospital from malicious activities with the help of Security Operating Centers.
 
-Actors:
-Hospital: System Admin, Admin, Doctor, Patient, Pharmacist
-SOC: SOC Director, Tier1 Analyst, Tier2 Analyst
+### Actors:
+* Hospital: System Admin, Admin, Doctor, Patient, Pharmacist
+* SOC: SOC Director, Tier1 Analyst, Tier2 Analyst
 
 Use cases related to actors
 1)	Admin manages doctor, pharmacist and assigns patient doctor.
@@ -26,15 +26,12 @@ Use cases related to actors
 
 The user inquires the Personal Health Record system, based on the role the system provides the information specified by the permissions assigned to the user's role.
 
-•	Patients have the option to authorize the disclosure of their information…if they disclose...should be visible to everyone inside hospital if not disclosed then to certain doctor only.
-•	Log Management: Capture history of Doctors and pharmacist’s activities.
-•	Authorization failure more than two times blocks the user and its activities and should contact Tier1 analyst for reactivation.
-•	Tier1 analyst monitors malicious activities and blocks such activities.
-•	When adding a doctor…create access, assign devices and certificate for access for them.
-•	Keep strong password indication and change them regularly notification.
-	Minimum password length of 10 characters 
-	Require passwords changes every 30 days 
-	Inability to reuse the last 10 passwords 
-	Utilize 3 out of four special characters such as numbers, lower case letters, upper case letters, or special characters 
-•	Role based authorization: Based on their functional role, users can view(read), create, update, delete, or act (execute) on information contained in a patient's record. 
-•	Context-based Authorization: right granted for a limited period to view those, and only those, records connected to a specific topic of investigation.
+* Patients have the option to authorize the disclosure of their information…if they disclose...should be visible to everyone inside hospital if not disclosed then to certain doctor only.
+* Log Management: Capture history of Doctors and pharmacist’s activities.
+* Authorization failure more than two times blocks the user and its activities and should contact Tier1 analyst for reactivation.
+* Tier1 analyst monitors malicious activities and blocks such activities.
+* When adding a doctor…create access, assign devices and certificate for access for them.
+* Keep strong password indication and change them regularly notification.
+* Utilize 3 out of four special characters such as numbers, lower case letters, upper case letters, or special characters 
+* Role based authorization: Based on their functional role, users can view(read), create, update, delete, or act (execute) on information contained in a patient's record. 
+* Context-based Authorization: right granted for a limited period to view those, and only those, records connected to a specific topic of investigation.
