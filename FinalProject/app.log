@@ -1,0 +1,14 @@
+[DEBUG] 2016-04-23 00:03:27,319 UserInterface.MainJFrame <init> - Entering Application
+[DEBUG] 2016-04-23 10:02:57,614 UserInterface.MainJFrame <init> - Entering Application
+[DEBUG] 2016-04-23 10:06:30,871 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-23 10:11:03,280 UserInterface.PatientRole.PatientWorkAreaJPanel btnNewAppointmentActionPerformed - Request for Prescription created by k
+[DEBUG] 2016-04-23 10:11:24,031 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-23 10:11:24,031 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[INFO] 2016-04-23 10:11:28,216 UserInterface.DoctorRole.DoctorWorkAreaJPanel assignJButtonActionPerformed - jt doctor assigned himself Patient k
+[INFO] 2016-04-23 10:11:39,182 UserInterface.DoctorRole.PrescriptionJPanel btnSendActionPerformed - Prescription created by jt
+[INFO] 2016-04-23 10:11:39,182 UserInterface.DoctorRole.PrescriptionJPanel btnSendActionPerformed - Prescription sent to Pharmacy
+[DEBUG] 2016-04-23 10:15:16,754 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-23 10:15:16,754 UserInterface.MainJFrame btnLoginActionPerformed - sh Logged In
+[INFO] 2016-04-23 10:15:21,321 UserInterface.PharmacistRole.PharmacistWorkAreaJPanel assignJButtonActionPerformed - sh pharmacist assigned himself the prescription 1
+[INFO] 2016-04-23 10:15:32,669 UserInterface.PharmacistRole.ProcessWorkRequestJPanel submitJButtonActionPerformed - sh pharmacist completed the prescription 1
+[INFO] 2016-04-23 10:15:58,839 UserInterface.PatientRole.ProcessPatientJPanel submitJButtonActionPerformed - Prescription completed by k

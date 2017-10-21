@@ -1,0 +1,136 @@
+[DEBUG] 2016-04-21 00:34:06,205 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 00:34:06,209 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 00:34:15,874 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 00:34:15,874 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 00:34:31,180 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 00:34:31,180 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 00:55:25,105 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 00:55:25,107 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 00:55:33,892 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 00:55:33,893 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 00:55:41,101 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 00:55:41,101 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 01:00:10,075 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:00:10,077 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:00:20,162 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 01:00:20,162 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 01:00:39,371 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 01:00:39,371 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 01:02:38,462 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:02:38,464 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:02:49,381 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 01:02:49,382 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 01:03:04,966 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 01:03:04,966 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 01:03:12,608 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 01:03:12,609 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 01:19:04,719 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:19:04,723 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:19:11,035 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 01:19:11,036 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 01:19:17,618 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 01:19:17,619 UserInterface.MainJFrame btnLoginActionPerformed - New IP Address added for jt
+[DEBUG] 2016-04-21 01:22:21,556 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:22:21,559 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:25:21,172 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:25:21,174 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:29:13,356 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:29:13,358 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:30:25,769 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:30:25,771 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:31:24,925 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:31:24,927 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 01:31:41,988 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 01:31:41,990 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 02:51:56,717 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 02:51:56,717 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:00:37,564 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:00:37,579 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:17:04,906 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:17:04,921 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:19:16,189 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:19:16,189 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:19:43,755 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:19:43,755 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:20:53,174 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:20:53,174 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:21:34,851 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:21:34,866 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:22:19,977 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:22:19,992 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:23:22,275 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:23:22,275 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:24:15,227 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:24:15,242 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 03:24:33,553 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 03:24:33,553 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:40:12,259 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:40:12,259 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:46:36,567 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:46:36,567 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:46:44,676 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 12:46:44,676 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 12:49:25,803 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:49:25,803 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:50:27,572 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:50:27,588 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:50:47,818 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:50:47,818 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:51:04,086 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:51:04,086 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:51:20,599 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:51:20,601 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:52:41,382 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:52:41,382 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:52:52,577 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:52:52,593 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:53:15,125 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 12:53:15,125 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 12:56:41,146 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 12:56:41,146 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 12:56:46,864 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 12:56:46,864 UserInterface.MainJFrame btnLoginActionPerformed - New IP Address added for jt
+[DEBUG] 2016-04-21 12:58:45,199 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 12:58:45,199 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 12:59:21,458 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 12:59:21,458 UserInterface.MainJFrame btnLoginActionPerformed - sh Logged In
+[DEBUG] 2016-04-21 12:59:28,816 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 12:59:28,816 UserInterface.MainJFrame btnLoginActionPerformed - New IP Address added for sh
+[DEBUG] 2016-04-21 13:01:08,534 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 13:01:08,535 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 13:01:10,489 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 13:01:10,489 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 13:12:28,542 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 13:12:28,542 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 13:30:22,158 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 13:30:22,164 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 13:36:41,051 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 13:36:41,058 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 13:38:13,551 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 13:38:13,553 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 13:38:33,349 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 13:38:33,355 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 19:53:53,365 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 19:53:53,365 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 20:07:28,954 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 20:07:28,954 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 20:09:57,950 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 20:09:57,950 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 20:11:35,214 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 20:11:35,214 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 20:11:55,798 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 20:11:55,798 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 20:14:46,223 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 20:14:46,238 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 20:14:53,412 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 20:14:53,412 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 20:15:35,723 UserInterface.MainJFrame btnLoginActionPerformed - ---------------
+[INFO] 2016-04-21 20:15:35,723 UserInterface.MainJFrame btnLoginActionPerformed - jt Logged In
+[DEBUG] 2016-04-21 20:15:43,575 UserInterface.MainJFrame btnLoginActionPerformed - -------------
+[INFO] 2016-04-21 20:15:43,575 UserInterface.MainJFrame btnLoginActionPerformed - Useraccount blocked
+[DEBUG] 2016-04-21 20:19:29,746 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 20:19:29,761 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 22:11:10,517 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 22:11:10,519 UserInterface.MainJFrame <init> - Logged In
+[DEBUG] 2016-04-21 22:13:11,123 UserInterface.MainJFrame <init> - Entering Application
+[INFO] 2016-04-21 22:13:11,125 UserInterface.MainJFrame <init> - Logged In
